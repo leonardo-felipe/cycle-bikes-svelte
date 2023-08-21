@@ -10,5 +10,5 @@
         <a class="nav-link" href="/produtos" style="color: #424242;">Produtos</a>
       </li>
     </ul>
-  </nav>
+</nav>
   
